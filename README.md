@@ -47,4 +47,4 @@ Technologies Used:
     3. Implement the "Delete All" functionality.
    	4. Handle user input and button clicks.
 
-
+![out1](https://github.com/user-attachments/assets/8d957ea5-b047-44ac-9c96-a143cb815a97)
